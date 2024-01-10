@@ -1,4 +1,4 @@
-<img align="center" src="https://e0.pxfuel.com/wallpapers/205/392/desktop-wallpaper-cute-cat-kawaii-girl-programmer.jpg" height="250" width="250" />
+<img align="center" src="https://cdn.leonardo.ai/users/06d7dbff-1a9d-4073-8681-3972053b43c4/generations/0730e590-5471-45be-b9bf-0ccc840c6e1b/Leonardo_Vision_XL_There_is_a_1_programmer_girl_at_her_tiny_ro_0.jpg" height="300"/>
 <h1 align="center">Hi 👋, I'm Ipek Coskun</h1>
 <h3 align="center">A passionate Frontend Developer from Türkiye</h3>
 
