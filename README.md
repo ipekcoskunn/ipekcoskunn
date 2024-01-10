@@ -1,6 +1,6 @@
 <img align="center" src="https://e0.pxfuel.com/wallpapers/205/392/desktop-wallpaper-cute-cat-kawaii-girl-programmer.jpg" height="250" width="250" />
 <h1 align="center">Hi 👋, I'm Ipek Coskun</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h3 align="center">A passionate Frontend Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Vue**
 
