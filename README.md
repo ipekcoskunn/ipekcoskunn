@@ -1,4 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4D12AQG8o0db9XJ-AA/article-cover_image-shrink_720_1280/0/1685389364376?e=2147483647&v=beta&t=lUOC1bhvs9ijw6Z-YnyRfWRK8q0cJDZj9mudKGTpfbk)
+<img align="center" src="https://e0.pxfuel.com/wallpapers/205/392/desktop-wallpaper-cute-cat-kawaii-girl-programmer.jpg" height="250" width="250" />
 <h1 align="center">Hi 👋, I'm Ipek Coskun</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
