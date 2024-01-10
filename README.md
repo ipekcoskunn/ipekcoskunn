@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Vue**
 
-- 💬 Ask me about **vue, angular and react**
+- 💬 Ask me about **Vue, Angular and React**
 
 - 📫 How to reach me **ipekcoskun59@gmail.com**
 
