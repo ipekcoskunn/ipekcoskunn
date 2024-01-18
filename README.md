@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.leonardo.ai/users/06d7dbff-1a9d-4073-8681-3972053b43c4/generations/0730e590-5471-45be-b9bf-0ccc840c6e1b/Leonardo_Vision_XL_There_is_a_1_programmer_girl_at_her_tiny_ro_0.jpg" height="300"/></p>
 <h1 align="center">Hi 👋, I'm Ipek Coskun</h1>
-<h3 align="center">A passionate Frontend Developer from Türkiye</h3>
+<h3 align="center">A passionate Frontend Developer from Turkiye</h3>
 
 - 🔭 I’m currently working on **Vue**
 
