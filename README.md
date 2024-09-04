@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ipek Coskun</h1>
 <h3 align="center">A passionate Frontend Developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **Vue**
+- 🔭 I’m currently working on **Vue** and **React**
 
 - 💬 Ask me about **Frontend Development**
 
